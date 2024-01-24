@@ -1,6 +1,10 @@
 *{
     font-family:'RubikDoodleShadow-Regular','Poppins-Black','Kanit-Black',sans-serif;
 }
+.T{
+    font-style:italic;
+    padding:10px;
+}
 a{
     color:white;
     text-underline-offset: 8px;
@@ -96,7 +100,7 @@ body {
 
 }
 .G{
-    padding:25px;
+    padding:10px;
 }
 .Head{
     font-size:30px;
@@ -198,4 +202,7 @@ footer{
     height:75px;
     justify-content:center;
     align-items:center;
+}
+.text{
+    padding:0 0 5px 0;
 }
